@@ -3,8 +3,8 @@ Run the script with:
 python technical_test.py
 ```
 
-##### First Question
+### First Question
 Print the output of odd numbers from given input in reversed order.
 
-##### Second Question
+### Second Question
 Print only the vowels from given string input.
